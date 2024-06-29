@@ -1,2 +1,0 @@
-# OdooHackathon
-Diet reccomendation website.
